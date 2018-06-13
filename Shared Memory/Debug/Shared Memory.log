@@ -1,0 +1,10 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2017\Professional\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(391,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Shared Memory.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  CircBuffer.cpp
+  main.cpp
+d:\skolan\shared memory\shared memory works\shared memory\shared memory\main.cpp(27): warning C4101: 'result': unreferenced local variable
+d:\skolan\shared memory\shared memory works\shared memory\shared memory\main.cpp(27): warning C4101: 'range': unreferenced local variable
+d:\skolan\shared memory\shared memory works\shared memory\shared memory\main.cpp(51): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\skolan\shared memory\shared memory works\shared memory\shared memory\main.cpp(103): warning C4018: '<': signed/unsigned mismatch
+d:\skolan\shared memory\shared memory works\shared memory\shared memory\main.cpp(143): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Shared Memory.vcxproj -> D:\skolan\Shared Memory\Shared Memory works\Shared Memory\Debug\Shared_Memory.exe
